@@ -12188,6 +12188,11 @@ a:hover {
   width: 100%;
 }
 
+.proj-btn-cnt {
+  margin-top: 5px;
+  display: flex;
+}
+
 .up i {
   color: #272727;
 }

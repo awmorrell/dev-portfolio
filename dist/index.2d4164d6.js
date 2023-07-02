@@ -954,6 +954,13 @@ ${frame.code}`;
                     }
                 },
                 {
+                    element: ".proj-cta",
+                    animation: {
+                        delay: 1000,
+                        origin: window.innerWidth > 768 ? "left" : "bottom"
+                    }
+                },
+                {
                     element: ".about-wrapper__image",
                     animation: {
                         delay: 600,
@@ -997,6 +1004,7 @@ ${frame.code}`;
 }, [
     "awEvQ",
     "bB7Pu"
-], "bB7Pu", "parcelRequire6aa4");
+], "bB7Pu", "parcelRequire6aa4") //# sourceMappingURL=index.3d214d75.js.map
+;
 
 //# sourceMappingURL=index.2d4164d6.js.map
